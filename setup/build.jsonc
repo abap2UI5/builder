@@ -1,7 +1,0 @@
-{
-  "abap_version": "v750",
-  "repositories": [
-    "abap2UI5",
-    "frontend"
-  ]
-}
